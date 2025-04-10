@@ -101,8 +101,8 @@ You can freely use, modify, and distribute the software with attribution, and wi
 ## 📞 Contact
 
 For questions or support, feel free to reach out:
-- Email: [your_email@example.com](mailto:dmohandm11@gmail.com)
-- GitHub: [Your GitHub](https://github.com/DaivikM)
+- Email: [dmohandm11@gmail.com](mailto:dmohandm11@gmail.com)
+- GitHub: [DaivikM](https://github.com/DaivikM)
 
 ---
 
