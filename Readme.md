@@ -63,7 +63,9 @@ python app.py
 
 Take a look at the **Real-time Speech-to-Text** system in action! 🔥
 
-![video](demo/video_demo.mp4)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/47ecba19-5191-49d8-beb5-efd420968326" width="450" controls></video>
+</p>
 ---
 
 ## 🔄 Switching Between Vosk and Hugging Face Models
@@ -99,8 +101,8 @@ You can freely use, modify, and distribute the software with attribution, and wi
 ## 📞 Contact
 
 For questions or support, feel free to reach out:
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- Email: [your_email@example.com](mailto:dmohandm11@gmail.com)
+- GitHub: [Your GitHub](https://github.com/DaivikM)
 
 ---
 
