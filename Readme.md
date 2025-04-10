@@ -28,8 +28,8 @@ This project is intended for:
 Start by cloning the repository to your local machine.
 
 ```bash
-git clone https://github.com/huggingface/speech-to-speech.git
-cd speech-to-speech
+git clone https://github.com/DaivikM/RealtimeSTT_Websocket.git
+cd RealtimeSTT_Websocket
 ```
 
 ### 2. Set up the Virtual Environment
