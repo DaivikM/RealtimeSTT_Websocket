@@ -116,4 +116,4 @@ For questions or support, feel free to reach out:
 
 ### 🚀 Happy Coding! ✨
 
-Clone this repository and experience real-time STT powered by Hugging Face and Vosk, utilizing the browser microphone through a WebSocket connection.
+Clone this repository and experience real-time STT powered by Hugging Face and Vosk, utilizing the browser's microphone through a WebSocket connection.
